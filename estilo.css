@@ -1,0 +1,64 @@
+#cabecalho{
+    
+        background-image: url('/image/imagembackground.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 30vh;
+        width: 100%;
+     
+}
+#icon01{
+    color:green;
+    cursor: pointer;
+   
+}
+#icon01:hover{
+    color: yellowgreen;
+}
+#icon02{
+    color: red;
+    cursor: pointer;
+
+}
+#icon02:hover{
+    color: firebrick;
+    
+}
+#icon03{
+    color: orange;
+    cursor: pointer;
+}
+#icon03:hover{
+    color: rgb(255, 187, 0);
+}
+
+#cicle{
+    width: 80px;
+    height: 80px;
+}
+
+.fundoblack{
+    background: linear-gradient( to bottom,white 50%,black 50%);
+    height: 30vh;
+}
+.corgren{
+    background-color: rgb(4, 182, 4);
+
+}
+.corgray{
+    background:#e4e5e6;
+}
+.altura{
+        height: 180px;
+    
+}
+.footer{
+    background-image: url('/image/imagembackground.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 30vh;
+        width: 100%;
+}
+.cor :hover{
+   background-color: red;
+}
